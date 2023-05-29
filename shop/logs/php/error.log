@@ -1,0 +1,13 @@
+[15-May-2023 20:41:14 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[15-May-2023 20:41:14 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[15-May-2023 20:48:15 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[15-May-2023 20:48:15 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[15-May-2023 20:48:15 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[15-May-2023 20:48:15 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[15-May-2023 21:02:59 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[15-May-2023 21:02:59 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[16-May-2023 20:15:05 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[16-May-2023 20:15:05 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[16-May-2023 20:21:21 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[16-May-2023 20:21:21 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[16-May-2023 21:42:10 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 88473600 bytes) in C:\Users\Yoel Gefen\Local Sites\shop\app\public\wp-includes\class-wp-image-editor-gd.php on line 111

@@ -1,0 +1,2 @@
+2023-05-16T21:42:10+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 88473600 bytes) in C:\Users\Yoel Gefen\Local Sites\shop\app\public\wp-includes\class-wp-image-editor-gd.php on line 111
+
